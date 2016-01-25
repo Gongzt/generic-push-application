@@ -1,0 +1,1 @@
+A simple school project where we are creating a simple android application to test push data.
